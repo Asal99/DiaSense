@@ -1,0 +1,10 @@
+matplotlib==3.8.4
+seaborn
+streamlit
+pandas
+numpy
+joblib
+scikit-learn
+plotly
+Pillow
+streamlit-extras
